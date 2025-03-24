@@ -1,0 +1,4 @@
+Product			|Quantity	|unit_price	|Total price|
+T-SHIRT			|5		|Rs.699		|Rs.3495|
+SKIRT			|8		|Rs.350		|Rs.2800|
+Total Amount:6295
